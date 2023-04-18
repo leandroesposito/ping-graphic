@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ping-graphic", "ping-graphic.csproj", "{C74D4E78-665C-4657-AB9E-8480525B4AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74D4E78-665C-4657-AB9E-8480525B4AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74D4E78-665C-4657-AB9E-8480525B4AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74D4E78-665C-4657-AB9E-8480525B4AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74D4E78-665C-4657-AB9E-8480525B4AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B07CBF-6536-44A0-A71F-9EA0147FAEB2}
+	EndGlobalSection
+EndGlobal
